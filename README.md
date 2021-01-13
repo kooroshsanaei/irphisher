@@ -1,6 +1,6 @@
 ![Program Environment](https://github.com/zerodey/webrobber/blob/main/Classes/Your%20paragraph%20text(1).png)![Program Environment](https://github.com/zerodey/irphisher/blob/main/Your%20paragraph%20text(2).png)![Program Environment](https://github.com/zerodey/irphisher/blob/main/Your%20paragraph%20text(3).png)
 
-# irphisher
+# IR.Phisher
 **Powerful Tool For "Phising" like Instagram and Other social media....**
 
 ![Program Environment](https://github.com/zerodey/irphisher/blob/main/github.png)
