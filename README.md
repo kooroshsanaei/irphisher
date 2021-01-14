@@ -10,7 +10,7 @@
 * `git clone https://github.com/zerodey/irphisher.git`
 * `cd irphisher`
 * `unzip -x phishing.zip`
-* `pip3 install requirements.txt`
+* `pip3 install -r requirements.txt`
 * `python3 irphisher.py`
 
 # Tutorial
