@@ -3,7 +3,7 @@
 # IR.Phisher
 **Powerful Tool For "Phising" like Instagram and Other social media(soon)....**
 
-![Program Environment](https://github.com/zerodey/irphisher/blob/main/github.png)
+
 
 # Installation
 
