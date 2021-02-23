@@ -3,7 +3,7 @@
 # IR.Phisher
 **Powerful Tool For "Phising" Social Media, WordPress,Steam and etc.**
 * `برنامه حرفه ای فیشینگ صفحات اجتماعی ,استیم, وووو`
-![Program Environment](https://github.com/zerodey/irphisher/blob/main/github.png)
+![Program Environment](https://github.com/zerodey/irphisher/blob/main/githubv2.png)
 
 
 # Installation
